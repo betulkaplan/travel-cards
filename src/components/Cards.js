@@ -6,17 +6,9 @@ import cardStyle from '.././Card.css';
 export default class Cards extends Component {
   render() {
     console.log(data);
-    const arr = [];
-    for (let i = 0; i < data.length; i++) {
-      arr.push(
-        <Card
-          id={data[i].id}
-          title={data[i].title}
-          desc={data[i].desc}
-          img={data[i].image}
-        />
-      );
-    }
+    const arr = data.map((item) => (
+      <Card id={item.id} title={item.title} desc={item.desc} img={item.image} />
+    ));
     return (
       <div className="cards">
         <h1>POPULAR TOUR PLACES</h1>
