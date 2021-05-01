@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/travel-cards/static/css/main.6d8fea44.chunk.css",
+    "main.css": "/travel-cards/static/css/main.180cac97.chunk.css",
     "main.js": "/travel-cards/static/js/main.0666b6d0.chunk.js",
     "main.js.map": "/travel-cards/static/js/main.0666b6d0.chunk.js.map",
     "runtime-main.js": "/travel-cards/static/js/runtime-main.fb1846a7.js",
@@ -10,14 +10,14 @@
     "static/js/3.36849575.chunk.js": "/travel-cards/static/js/3.36849575.chunk.js",
     "static/js/3.36849575.chunk.js.map": "/travel-cards/static/js/3.36849575.chunk.js.map",
     "index.html": "/travel-cards/index.html",
-    "static/css/main.6d8fea44.chunk.css.map": "/travel-cards/static/css/main.6d8fea44.chunk.css.map",
+    "static/css/main.180cac97.chunk.css.map": "/travel-cards/static/css/main.180cac97.chunk.css.map",
     "static/js/2.284534b2.chunk.js.LICENSE.txt": "/travel-cards/static/js/2.284534b2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/travel-cards/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fb1846a7.js",
     "static/js/2.284534b2.chunk.js",
-    "static/css/main.6d8fea44.chunk.css",
+    "static/css/main.180cac97.chunk.css",
     "static/js/main.0666b6d0.chunk.js"
   ]
 }
