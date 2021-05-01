@@ -1,1 +1,1 @@
-https://betulkaplan.github.io/travelCards-React/
+https://betulkaplan.github.io/travel-cards/
