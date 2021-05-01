@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/travel-cards/static/css/main.fe59202c.chunk.css",
-    "main.js": "/travel-cards/static/js/main.00aa5f48.chunk.js",
-    "main.js.map": "/travel-cards/static/js/main.00aa5f48.chunk.js.map",
+    "main.js": "/travel-cards/static/js/main.0666b6d0.chunk.js",
+    "main.js.map": "/travel-cards/static/js/main.0666b6d0.chunk.js.map",
     "runtime-main.js": "/travel-cards/static/js/runtime-main.fb1846a7.js",
     "runtime-main.js.map": "/travel-cards/static/js/runtime-main.fb1846a7.js.map",
     "static/js/2.284534b2.chunk.js": "/travel-cards/static/js/2.284534b2.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fb1846a7.js",
     "static/js/2.284534b2.chunk.js",
     "static/css/main.fe59202c.chunk.css",
-    "static/js/main.00aa5f48.chunk.js"
+    "static/js/main.0666b6d0.chunk.js"
   ]
 }
