@@ -2,7 +2,7 @@
   "name": "travel_cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://betulkaplan.github.io/travelCards-React/",
+  "homepage": "https://betulkaplan.github.io/travel-cards/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
