@@ -19,7 +19,7 @@
   background-color: rgb(177, 225, 248);
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 500px);
+  grid-template-rows: repeat(5, 500px);
   column-gap: 50px;
   row-gap: 20px;
 }
