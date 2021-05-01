@@ -7,7 +7,7 @@ export default class Cards extends Component {
   render() {
     console.log(data);
     const arr = [];
-    for (let i = 0; i < 9; i++) {
+    for (let i = 0; i < data.length; i++) {
       arr.push(
         <Card
           id={data[i].id}
