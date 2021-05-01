@@ -50,6 +50,13 @@ img {
   height: 80%;
   border-radius: 10px;
   object-fit: cover;
+  transition: all 0.5s ease;
+}
+
+img.filtered {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  transition: all 0.5s ease;
 }
 
 .overlay {
@@ -60,6 +67,10 @@ img {
   height: 30%;
   border-radius: 0 0 10px 10px;
   overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  box-sizing: border-box;
 }
 
 .overlay.hidden {

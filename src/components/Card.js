@@ -32,7 +32,11 @@ export default class TravelCard extends Component {
             </h1>
           </div>
 
-          <img src={this.props.img} alt="" />
+          <img
+            src={this.props.img}
+            className={`${this.state.hover ? 'filtered' : null}`}
+            alt=""
+          />
 
           <p className={`overlay ${this.state.hover ? 'visible' : 'hidden'}`}>
             {this.props.desc}
